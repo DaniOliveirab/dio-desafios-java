@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "padroes-projeto-spring/src/main/java/com/dio",
+        "PadroesProjetoJava/src",
+        "JavaBasico/ContaBanco/src",
+        "CollectionsJava/List/OperacoesBasicas/src",
+        "padroes-projeto-spring/src/main/java/one/digitalinnovation/padroes_projeto_spring"
+    ]
+}
